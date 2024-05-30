@@ -7,7 +7,7 @@
 # 같은 눈이 나오는 경우를 가장 큰 분기로 두고 출력값(상금계산) 설정
 
 while(1):
-    a, b, c = map(int, input("").split())
+    a, b, c = map(int, input().split())
     if 1<=a<=6 and 1<=b<=6 and 1<=c<=6: break #문제에서 제시한 조건을 입력 시 while문 탈출 후 다음 If구문 실행
 
 if a==b==c: price = 10000+(a*1000) #3개가 같을 경우

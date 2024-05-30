@@ -1,5 +1,5 @@
 while(1):
-    m, d = map(int,input("").split())
+    m, d = map(int,input().split())
     if 1<=m<=12 and 1<=d<=31: break
 
 endone = [1,3,5,7,8,10,12]

@@ -6,7 +6,7 @@
 # else 구문에서는 별의 개수를 총 글자수에서 i+1값을 빼어 2개씩 빠지게 함
 # 공백 count는 위와 같이 전체 줄에서 별의 개수를 뺀 값
 
-n = int(input(""))
+n = int(input())
 for i in range(0, n*2-1): #문제에서 제시한 조건 0~n*2-1번 순회
     if i < n: #0부터 n-1번 순회 (별 개수 증가)
         star = i+1 #회차별로 별 1개 증가
@@ -19,7 +19,7 @@ for i in range(0, n*2-1): #문제에서 제시한 조건 0~n*2-1번 순회
         
 # for문 2개 (위와 같은 로직)
 # 이게 더 나을지도?
-n = int(input(""))
+n = int(input())
 for i in range(1,n+1):
     print("*"*i+" "*(2*(n-i))+"*"*i)
 for j in range(1,n):

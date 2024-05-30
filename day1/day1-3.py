@@ -2,7 +2,7 @@
 # 입력받는 R값만큼 print S
 # S의 글자를 전부 list의 요소로 넣어 해당 요소를 for문으로 R회 반복 출력
 
-t = int(input("")) #테스트 케이스 count
+t = int(input()) #테스트 케이스 count
 
 for i in range(t): #케이스 count 만큼 for문 반복
     result = '' #변수 초기화

@@ -1,7 +1,7 @@
 #(학점 × 과목평점)의 합을 학점의 총합으로 나눈 값
 scoreData = []
 for i in range(20):
-    inpt = list(map(str,input("").split(" ")))    
+    inpt = list(map(str,input().split(" ")))    
     scoreData.append(inpt)
 
 score = {

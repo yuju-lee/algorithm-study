@@ -1,4 +1,4 @@
-x = int(input(""))
+x = int(input())
 endnum = 0
 box = 0
 while(1):
