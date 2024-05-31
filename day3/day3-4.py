@@ -1,9 +1,3 @@
-# def fib(n):
-#     if n==1 or n==2:
-#         return 1
-#     else:
-#         return (fib(n-1)+fib(n-2))
-
 n = int(input())
 #다이나믹 프로그래밍으로 피보나치 구현
 dp = [0]*100 
