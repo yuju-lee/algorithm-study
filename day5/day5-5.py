@@ -1,49 +1,25 @@
-# pattern1 = [] #흰색으로 시작함
-# pattern2 = [] #검은색으로 시작함
+#92ms
+n, m = map(int, input().split())
 
-# sorted(patter1, )
+ls = []
+for i in range(n):
+    s = str(input())
+    ls.append(s)
 
-
-# from math import sqrt
-
-
-# k = 2
-# d = 4
-
-# sqrt(k)
-
-# y축을 포함한 총 점의 갯수 = x의 길이를 k로 나눈 몫 + 1 (y축은 0, 0 이므로 1 더해줘야 함)
-
-# n = 2
-# s = 8
-# maxmul = 0
-# maxls = []
-# ls = []
-
-# if 1 < s:
-#     for i in range(1, s+1//2):
-#         for j in range(s//2, 0, -1):
-#             if i+j == s:
-#                 ls.append([i, j])
-
-#     for i in range(len(ls)):
+pattern1 = ['WB'*4,'BW'*4]*4 #흰색으로 시작함
+pattern2 = ['BW'*4,'WB'*4]*4 #검은색으로 시작함
+mincnt = float('inf')
+for i in range(n-7):
+    for j in range(m-7): #전체 순회
+        cnt1, cnt2 = 0, 0
+        for x in range(8): #패턴이랑 8개씩 나눈거랑 맞는지 확인
+            for y in range(8):
+                if ls[i+x][j+y] != pattern1[x][y]:
+                    cnt1 += 1
+                if ls[i+x][j+y] != pattern2[x][y]:
+                    cnt2 += 1
         
-#         if maxmul < ls[i][0] * ls[i][1]:
-#             maxmul = ls[i][0] * ls[i][1]
-#             maxls.append([ls[i][1], ls[i][0]])
-# else:
-#     maxls.append([-1])
+        if min(cnt1, cnt2) < mincnt:
+            mincnt = min(cnt1, cnt2)
 
-# print(maxls[0])
-
-
-from math import sqrt
-
-def solution(k, d):
-    answer = 0
-    for i in range(0, d+1, k):
-        y = sqrt(d**2 - i**2)
-        answer = answer + y//k+1
-    return int(answer)
-
-print(solution(2, 5))
+print(mincnt)
