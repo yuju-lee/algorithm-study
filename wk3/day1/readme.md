@@ -6,9 +6,7 @@
 
 분류: 브루트포스
 
-링크:
-
-[2798번: 블랙잭](https://www.acmicpc.net/problem/2798)
+링크: [2798번: 블랙잭](https://www.acmicpc.net/problem/2798)
 
 
 ```python
@@ -38,9 +36,7 @@ print(max(sumls))
 
 분류: 브루트 포스
 
-링크 : 
-
-[1440번: 타임머신](https://www.acmicpc.net/problem/1440)
+링크 : [1440번: 타임머신](https://www.acmicpc.net/problem/1440)
 
 
 ```python
@@ -77,9 +73,7 @@ print(cnt)
 
 분류: 브루트 포스
 
-링크 : 
-
-[2061번: 좋은 암호](https://www.acmicpc.net/problem/2061)
+링크 : [2061번: 좋은 암호](https://www.acmicpc.net/problem/2061)
 
 
 ```python
@@ -144,9 +138,7 @@ else:
 
 분류: 브루트 포스
 
-링크 : 
-
-[10419번: 지각](https://www.acmicpc.net/problem/10419)
+링크 : [10419번: 지각](https://www.acmicpc.net/problem/10419)
 
 
 ```python
@@ -174,9 +166,7 @@ for _ in range(testcase):
 
 분류: 브루트 포스
 
-링크:
-
-[1251번: 단어 나누기](https://www.acmicpc.net/problem/1251)
+링크: [1251번: 단어 나누기](https://www.acmicpc.net/problem/1251)
 
 
 ```python
@@ -211,9 +201,7 @@ print(anstr)
 
 분류: 브루트포스
 
-링크: 
-
-[4673번: 셀프 넘버](https://www.acmicpc.net/problem/4673)
+링크: [4673번: 셀프 넘버](https://www.acmicpc.net/problem/4673)
 
 
 ```python
@@ -243,9 +231,7 @@ for i in range(1, 10001):
 
 분류: 시뮬레이션
 
-링크: 
-
-[1063번: 킹](https://www.acmicpc.net/problem/1063)
+링크: [1063번: 킹](https://www.acmicpc.net/problem/1063)
 
 
 ```python
@@ -306,9 +292,7 @@ print(xy2pos(rx, ry))
 
 분류: 브루트포스
 
-링크: 
-
-[1182번: 부분수열의 합](https://www.acmicpc.net/problem/1182)
+링크: [1182번: 부분수열의 합](https://www.acmicpc.net/problem/1182)
 
 
 ```python

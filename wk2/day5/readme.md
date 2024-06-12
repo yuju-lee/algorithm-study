@@ -6,9 +6,7 @@
 
 분류: DFS
 
-링크:
-
-[24479번: 알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479)
+링크: [24479번: 알고리즘 수업 - 깊이 우선 탐색 1](https://www.acmicpc.net/problem/24479)
 
 
 ```python
@@ -59,9 +57,7 @@ for i in range(1, node + 1):
 
 분류: BFS
 
-링크: 
-
-[24444번: 알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444)
+링크: [24444번: 알고리즘 수업 - 너비 우선 탐색 1](https://www.acmicpc.net/problem/24444)
 
 
 ```python
@@ -115,9 +111,7 @@ for i in range(1, node + 1):
 
 분류: DFS, BFS
 
-링크: 
-
-[2644번: 촌수 계산](https://www.acmicpc.net/problem/2644)
+링크: [2644번: 촌수 계산](https://www.acmicpc.net/problem/2644)
 
 
 ```python
@@ -176,9 +170,7 @@ print(bfs(person1, person2))
 
 분류: BFS (최단 거리)
 
-링크: 
-
-[7562번: 나이트의 이동](https://www.acmicpc.net/problem/7562)
+링크: [7562번: 나이트의 이동](https://www.acmicpc.net/problem/7562)
 
 
 ```python
@@ -234,9 +226,7 @@ for result in results:
 
 분류: BFS (최단 거리)
 
-링크: 
-
-[18352번: 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
+링크: [18352번: 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
 
 
 ```python
@@ -287,9 +277,7 @@ else:
 
 분류: BFS, DFS
 
-링크: 
-
-[2606번: 바이러스](https://www.acmicpc.net/problem/2606)
+링크: [2606번: 바이러스](https://www.acmicpc.net/problem/2606)
 
 
 ```python
@@ -331,9 +319,7 @@ print(count-1)
 
 분류: DFS, BFS
 
-링크: 
-
-[21937번: 작업](https://www.acmicpc.net/problem/21937)
+링크: [21937번: 작업](https://www.acmicpc.net/problem/21937)
 
 
 ```python
@@ -370,15 +356,13 @@ print(count)
 
 --------
 
-### 8️⃣ 25195 번: yes or yes
+### 8️⃣ 25195번: yes or yes
 
 난이도: 골드
 
 분류: BFS DFS 
 
-링크: 
-
-[25195 번: yes or yes](https://www.acmicpc.net/problem/25195)
+링크: [25195번: yes or yes](https://www.acmicpc.net/problem/25195)
 
 
 ```python

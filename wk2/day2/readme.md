@@ -6,9 +6,7 @@
 
 분류: 해시 테이블 (딕셔너리)
 
-링크:
-
-[9933번: 민균이의 비밀번호](https://www.acmicpc.net/problem/9933)
+링크: [9933번: 민균이의 비밀번호](https://www.acmicpc.net/problem/9933)
 
 
 ```python
@@ -38,9 +36,7 @@ print(len(ans), ans[(len(ans)//2)])
 
 분류: 해시
 
-링크: 
-
-[27160번: 할리갈리](https://www.acmicpc.net/problem/27160)
+링크: [27160번: 할리갈리](https://www.acmicpc.net/problem/27160)
 
 
 ```python
@@ -73,9 +69,7 @@ else:
 
 분류: 해시 
 
-링크: 
-
-[31562번: 전주 듣고 노래 맞추기](https://www.acmicpc.net/problem/31562)
+링크: [31562번: 전주 듣고 노래 맞추기](https://www.acmicpc.net/problem/31562)
 
 
 ```python
@@ -112,9 +106,7 @@ for j in range(m):
 
 분류: 힙
 
-링크: 
-
-[1927번: 최소 힙](https://www.acmicpc.net/problem/1927)
+링크: [1927번: 최소 힙](https://www.acmicpc.net/problem/1927)
 
 
 ```python
@@ -147,9 +139,7 @@ for _ in range(n):
 
 분류: 해시 
 
-링크: 
-
-[15829번: hashing](https://www.acmicpc.net/problem/15829)
+링크: [15829번: hashing](https://www.acmicpc.net/problem/15829)
 
 
 ```python
@@ -179,9 +169,7 @@ print(sum % 1234567891)
 
 분류: 해시 테이블 (딕셔너리)
 
-링크: 
-
-[1920번: 수 찾기](https://www.acmicpc.net/problem/1920)
+링크: [1920번: 수 찾기](https://www.acmicpc.net/problem/1920)
 
 
 ```python
@@ -207,9 +195,7 @@ for i in range(m):
 
 분류: 해시 테이블 (딕셔너리)
 
-링크: 
-
-[9375번: 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
+링크: [9375번: 패션왕 신해빈](https://www.acmicpc.net/problem/9375)
 
 
 ```python
@@ -244,9 +230,7 @@ for _ in range(t):
 
 분류: 힙
 
-링크: 
-
-[11286번: 절댓값 힙](https://www.acmicpc.net/problem/11286)
+링크: [11286번: 절댓값 힙](https://www.acmicpc.net/problem/11286)
 
 
 ```python

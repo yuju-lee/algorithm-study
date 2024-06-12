@@ -6,9 +6,7 @@
 
 분류: 스택
 
-링크:
-
-[17608번: 막대기](https://www.acmicpc.net/problem/17608)
+링크: [17608번: 막대기](https://www.acmicpc.net/problem/17608)
 
 
 ```python
@@ -48,9 +46,7 @@ print(cnt)
 
 분류: 스택 문자열 
 
-링크: 
-
-[12605번: 단어순서 뒤집기](https://acmicpc.net/problem/12605)
+링크: [12605번: 단어순서 뒤집기](https://acmicpc.net/problem/12605)
 
 
 ```python
@@ -75,13 +71,11 @@ for i in range(cnt):
 
 ### 3️⃣ 2153번: 소수 단어
 
-난이도 : 브론즈
+난이도: 브론즈
 
-분류 : 문자열 구현
+분류: 문자열 구현
 
-링크 
-
-[2153번: 소수 단어](https://www.acmicpc.net/problem/2153)
+링크: [2153번: 소수 단어](https://www.acmicpc.net/problem/2153)
 
 
 ```python
@@ -126,9 +120,7 @@ prime(sn)
 
 분류: 문자열 구현
 
-링크
-
-[7567 번: 그릇](https://www.acmicpc.net/problem/7567)
+링크: [7567 번: 그릇](https://www.acmicpc.net/problem/7567)
 
 
 ```python
@@ -167,9 +159,7 @@ print(score)
 
 분류: 큐 (덱)
 
-링크: 
-
-[1966번: 프린터 큐](https://www.acmicpc.net/problem/1966)
+링크: [1966번: 프린터 큐](https://www.acmicpc.net/problem/1966)
 
 
 ```python
@@ -211,9 +201,7 @@ for i in range(cnt):
 
 분류: 덱
 
-링크: 
-
-[1021번: 회전하는 큐](https://www.acmicpc.net/problem/1021)
+링크: [1021번: 회전하는 큐](https://www.acmicpc.net/problem/1021)
 
 
 ```python
@@ -261,9 +249,7 @@ print(cnt)
 
 분류: 스택
 
-링크: 
-
-[9012번: 괄호](https://www.acmicpc.net/problem/9012)
+링크: [9012번: 괄호](https://www.acmicpc.net/problem/9012)
 
 
 ```python
@@ -311,9 +297,7 @@ for j in range(len(ans)):
 
 분류: 덱
 
-링크: 
-
-[2346번: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
+링크: [2346번: 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
 
 
 ```python

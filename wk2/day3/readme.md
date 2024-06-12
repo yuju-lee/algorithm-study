@@ -6,9 +6,7 @@
 
 분류: 정렬
 
-링크:
-
-[일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+링크: [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 
 
 ```python
@@ -42,9 +40,7 @@ for combination in perm:
 
 분류: 정렬
 
-링크: 
-
-[Yangjojang of The Year](https://www.acmicpc.net/problem/11557)
+링크: [Yangjojang of The Year](https://www.acmicpc.net/problem/11557)
 
 
 ```python
@@ -74,9 +70,7 @@ for _ in range(testcase):
 
 분류: 정렬
 
-링크: 
-
-[16466번: 콘서트](https://www.acmicpc.net/problem/16466)
+링크: [16466번: 콘서트](https://www.acmicpc.net/problem/16466)
 
 
 ```python
@@ -107,9 +101,7 @@ else:
 
 분류: 이분 탐색
 
-링크: 
-
-[2805번: 나무 자르기](https://www.acmicpc.net/problem/2805)
+링크: [2805번: 나무 자르기](https://www.acmicpc.net/problem/2805)
 
 
 ```python
@@ -149,9 +141,7 @@ print(ans)
 
 분류: 정렬 
 
-링크: 
-
-[28114번: 팀명 정하기](https://www.acmicpc.net/problem/28114)
+링크: [28114번: 팀명 정하기](https://www.acmicpc.net/problem/28114)
 
 
 ```python
@@ -180,9 +170,7 @@ for i in range(len(second)):
 
 분류: 정렬
 
-링크: 
-
-[11399번: ATM](https://www.acmicpc.net/problem/11399)
+링크: [11399번: ATM](https://www.acmicpc.net/problem/11399)
 
 
 ```python
@@ -208,9 +196,7 @@ print(sum(time))
 
 분류: 정렬
 
-링크: 
-
-[18870번: 좌표 압축](https://www.acmicpc.net/problem/18870)
+링크: [18870번: 좌표 압축](https://www.acmicpc.net/problem/18870)
 
 
 ```python
@@ -236,9 +222,7 @@ for i in coordinate:
 
 분류: 이분 탐색
 
-링크: 
-
-[10815번: 숫자카드](https://www.acmicpc.net/problem/10815)
+링크: [10815번: 숫자카드](https://www.acmicpc.net/problem/10815)
 
 
 ```python

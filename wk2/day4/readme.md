@@ -6,9 +6,7 @@
 
 분류: 구현
 
-링크:
-
-[2441번: 별 찍기 - 4](https://www.acmicpc.net/problem/2441)
+링크: [2441번: 별 찍기 - 4](https://www.acmicpc.net/problem/2441)
 
 
 ```python
@@ -30,9 +28,7 @@ for i in range(cnt, 0, -1):
 
 분류: 구현
 
-링크: 
-
-[1292번: 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)
+링크: [1292번: 쉽게 푸는 문제](https://www.acmicpc.net/problem/1292)
 
 
 ```python
@@ -56,9 +52,7 @@ print(sum(ls[first-1:last]))
 
 분류: 정렬
 
-링크: 
-
-[28417번: 스케이트보드](https://www.acmicpc.net/problem/28417)
+링크: [28417번: 스케이트보드](https://www.acmicpc.net/problem/28417)
 
 
 ```python
@@ -98,9 +92,7 @@ print(maxscore)
 
 분류: 문자열, 스택
 
-링크: 
-
-[](https://www.acmicpc.net/problem/11899)
+링크: [11899번: 괄호 끼워넣기](https://www.acmicpc.net/problem/11899)
 
 
 
@@ -136,9 +128,7 @@ print(checkVPS(s))
 
 분류: 이분 탐색
 
-링크: 
-
-[11561번: 징검다리](https://www.acmicpc.net/problem/11561)
+링크: [11561번: 징검다리](https://www.acmicpc.net/problem/11561)
 
 
 ```python
@@ -170,9 +160,7 @@ for _ in range(t):
 
 분류: 정렬, 힙
 
-링크: 
-
-[](https://www.acmicpc.net/problem/1417)
+링크: [1417번: 국회의원 선거](https://www.acmicpc.net/problem/1417)
 
 
 ```python
@@ -218,9 +206,7 @@ else:
 
 분류: 이분 탐색
 
-링크: 
-
-[1072번: 게임](https://www.acmicpc.net/problem/1072)
+링크: [1072번: 게임](https://www.acmicpc.net/problem/1072)
 
 
 ```python
@@ -258,9 +244,7 @@ print(findratio(x, y))
 
 분류: 스택
 
-링크: 
-
-[2304번: 창고 다각형](https://www.acmicpc.net/problem/2304)
+링크: [2304번: 창고 다각형](https://www.acmicpc.net/problem/2304)
 
 
 ```python

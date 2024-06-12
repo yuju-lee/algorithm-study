@@ -6,9 +6,7 @@
 
 분류: 구현
 
-링크: 
-
-[24263번: 알고리즘 수업 - 알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263)
+링크: [24263번: 알고리즘 수업 - 알고리즘의 수행 시간 2](https://www.acmicpc.net/problem/24263)
 
 ```python
 print(len(input().split()))
@@ -22,9 +20,7 @@ print(len(input().split()))
 
 분류: 구현
 
-링크:
-
-[24265번: 알고리즘 수업 - 알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265)
+링크: [24265번: 알고리즘 수업 - 알고리즘의 수행 시간 4](https://www.acmicpc.net/problem/24265)
 
 
 ```python
@@ -46,9 +42,7 @@ print(3)
 
 분류: 구현
 
-링크: 
-
-[24267번: 알고리즘 수업 - 알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267)
+링크: [24267번: 알고리즘 수업 - 알고리즘의 수행 시간 6](https://www.acmicpc.net/problem/24267)
 
 
 ```python
@@ -65,9 +59,7 @@ print(3)
 
 분류: 구현
 
-링크: 
-
-[24416번: 알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416)
+링크: [24416번: 알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416)
 
 
 ```python
@@ -90,9 +82,7 @@ print(dp[n], n-2)
 
 분류: 수학
 
-링크: 
-
-[24313번: 알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313)
+링크: [24313번: 알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313)
 
 
 ```python
@@ -115,9 +105,7 @@ else: print(0)
 
 분류: 해시 맵 (딕셔너리)
 
-링크: 
-
-[15650번: N과 M (2)](https://www.acmicpc.net/problem/15650)
+링크: [15650번: N과 M (2)](https://www.acmicpc.net/problem/15650)
 
 
 ```python
@@ -141,9 +129,7 @@ for seq in combinations(numList, m):
 
 분류: 문자열, 해시 맵 (딕셔너리)
 
-링크: 
-
-[25192번: 인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192)
+링크: [25192번: 인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192)
 
 
 
@@ -173,9 +159,7 @@ print(cnt)
 
 분류: 문자열, 해시 맵 (딕셔너리)
 
-링크: 
-
-[1764번: 듣보잡](https://www.acmicpc.net/problem/1764)
+링크: [1764번: 듣보잡](https://www.acmicpc.net/problem/1764)
 
 
 ```python
