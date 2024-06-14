@@ -4,7 +4,7 @@
 
 난이도: 브론즈
 
-분류: 그리디 알고리
+분류: 그리디 알고리즘
 
 링크: [5585번: 거스름돈](https://www.acmicpc.net/problem/5585)
 
@@ -402,6 +402,5 @@ dist = dijkstra(start, n, graph)
 # 도착 도시까지의 최단 거리를 출력, 도달 불가능한 경우 -1 출력
 print(dist[end] if dist[end] != INF else -1)
 ```
-
 
 -----
