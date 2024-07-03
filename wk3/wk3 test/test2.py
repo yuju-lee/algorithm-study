@@ -12,3 +12,5 @@ for i in range(0, len(sensors)-1):
 arr.sort()
 
 print(sum(arr[0:sensorcnt-pointcnt]))
+
+#commit test
